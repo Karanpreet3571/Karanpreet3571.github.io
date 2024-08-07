@@ -335,3 +335,8 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+    
+permissions:
+  contents: write  # Grants read and write access to the repository content
+  pages: write     # Allows deploying to GitHub Pages
+  id-token: write  # Required for OIDC authentication, if used
