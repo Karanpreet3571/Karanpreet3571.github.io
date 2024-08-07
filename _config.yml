@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your TaranPannu / Site Title"
+title                    : "Your Taran Pannu / Site Title"
 title_separator          : "-"
 name                     : &name "Your TaranPannu"
 description              : &description "personal description"
